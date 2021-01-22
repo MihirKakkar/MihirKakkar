@@ -1,4 +1,4 @@
-### Hey I'm Mihir, a 3A Nanotechnology Engineering student at UWaterloo 👋
+### Hey! I'm Mihir, a 3A Nanotechnology Engineering student at UWaterloo 👋
 Feel free to check out what I've worked on! 😄
 
 ![](https://komarev.com/ghpvc/?username=MihirKakkar&color=red&style=flat-square)
